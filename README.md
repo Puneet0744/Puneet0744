@@ -1,4 +1,10 @@
-## Hi there 👋
+👋 Hi, I’m Puneet Khandelwal, a passionate Web Developer specializing in modern JavaScript frameworks like React and backend technologies like Node.js. I love building scalable, user-friendly web applications and continuously learning new tools and best practices to deliver high-quality software.
+
+🔭 Currently working on full-stack projects, open to collaboration and contributing to open-source.
+
+🌱 Always exploring new trends in web development and improving my skillset.
+
+📫 Feel free to connect with me for collaboration or project inquiries!
 
 <!--
 **Puneet0744/Puneet0744** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
