@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 - 📫 How to reach me **puneetkh16@gmail.com**
+- Portfolio: **https://puneet-khandelwal-porfolio.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
