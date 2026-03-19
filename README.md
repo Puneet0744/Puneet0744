@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Puneet Khandelwal</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
- Portfolio: **https://puneet-khandelwal-porfolio.vercel.app/**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puneetkh16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puneetkh16@gmail.com) 
